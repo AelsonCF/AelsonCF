@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando Python e postgreSQL
+- 🌱 Estudando Python e MySQL
 
 
 <div>
